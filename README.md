@@ -91,6 +91,14 @@
 <br clear="both">
 
 <div align="center">
+ <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312unliw5xsjx7usjewvitkihrqa&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312unliw5xsjx7usjewvitkihrqa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+ </a>
+</div>
+
+<br clear="both">
+
+<div align="center">
   <a href="https://open.spotify.com/user/312unliw5xsjx7usjewvitkihrqa">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312unliw5xsjx7usjewvitkihrqa&count=5&unique=true" alt="Spotify recently played"  />
   </a>
@@ -103,14 +111,6 @@
     <img src="https://lanyard.cnrad.dev/api/562788710685474817" alt="Discord Presence" />
   </a>
 </div>
-
-### Now Playing - Spotify 🎧
-
-<p>
- <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
- </a>
-</p>
 
 ###
 
