@@ -98,7 +98,11 @@
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/562788710685474817)](https://discord.com/users/562788710685474817)
+<div align="center">
+  <a href="https://discord.com/users/562788710685474817">
+    <img src="https://lanyard.cnrad.dev/api/562788710685474817" alt="Discord Presence" />
+  </a>
+</div>
 
 ###
 
