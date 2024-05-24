@@ -78,8 +78,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <a href="https://www.pinterest.es" target="_blank">
+  <a href="https://discord.com/users/562788710685474817" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
 </div>
@@ -93,6 +95,10 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=312unliw5xsjx7usjewvitkihrqa&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/562788710685474817)](https://discord.com/users/562788710685474817)
 
 ###
 
