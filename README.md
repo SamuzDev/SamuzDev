@@ -107,17 +107,9 @@ const samuz = {
 <br clear="both">
 
 <div align="center">
- <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=312unliw5xsjx7usjewvitkihrqa&redirect=true">
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=312unliw5xsjx7usjewvitkihrqa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=312unliw5xsjx7usjewvitkihrqa&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=312unliw5xsjx7usjewvitkihrqa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true"/>
  </a>
-</div>
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/312unliw5xsjx7usjewvitkihrqa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312unliw5xsjx7usjewvitkihrqa&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
