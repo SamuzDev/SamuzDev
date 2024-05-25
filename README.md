@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&repeat=false&random=false&width=295&lines=Hey+there!+%F0%9F%91%8B+I'm+Samuz%2C)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&color=0298F7&vCenter=true&random=false&width=200&lines=A+Web+Developer!;A+UI%2FUX+Designer!)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=550&height=22&lines=Hey+there!+%F0%9F%91%8B%2C+I%E2%80%99m+Samuz%2C+A+Web+Developer!" alt="a" />
+</div>
 
 ###
 
