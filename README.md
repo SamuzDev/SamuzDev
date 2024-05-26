@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=550&height=22&lines=Hey+there!+%F0%9F%91%8B%2C+I%E2%80%99m+Samuz%2C+A+Web+Developer!" alt="a" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=22&duration=1&pause=1000&color=F7F7F7&vCenter=true&random=false&width=265&height=22&lines=Hey+there!%F0%9F%91%8B+I'm+Samuz%2C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=15A7F7&vCenter=true&random=false&width=200&height=22&lines=a+Web+Developer!;a+UI%2FUX+Designer!" />
 </div>
+
 
 ###
 
