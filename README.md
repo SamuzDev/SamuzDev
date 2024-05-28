@@ -142,8 +142,6 @@ const samuz = {
   </a>
 </div>
 
-###
-
 <img src="https://raw.githubusercontent.com/SamuzDev/SamuzDev/output/snake.svg" alt="Snake animation" />
 
 ###
