@@ -33,7 +33,7 @@ const samuz = {
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/e2/6f/ff/e26fffa6cf8c786f1539b70669047883.gif" />
+<img align="right" height="200" src="https://media1.tenor.com/m/gUaKvbWnmaUAAAAC/anime-neco.gif" />
 
 ###
 
