@@ -33,7 +33,7 @@ const samuz = {
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/gUaKvbWnmaUAAAAC/anime-neco.gif" />
+<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-94.gif" />
 
 ###
 
