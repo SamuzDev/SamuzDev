@@ -138,9 +138,10 @@ const samuz = {
 
 <div align="center">
   <a href="https://discord.com/users/562788710685474817">
-    <img src="https://lanyard.cnrad.dev/api/562788710685474817" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/562788710685474817?theme=dark&bg=151515&borderRadius=30px" alt="Discord Presence" />
   </a>
 </div>
+
 
 <img src="https://raw.githubusercontent.com/SamuzDev/SamuzDev/output/snake.svg" alt="Snake animation" />
 
