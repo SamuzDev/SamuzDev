@@ -129,7 +129,7 @@ const samuz = {
 <div height="15px" />
 
 <div align="center">
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=312unliw5xsjx7usjewvitkihrqa&redirect=true">
+ <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312unliw5xsjx7usjewvitkihrqa&redirect=true">
    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312unliw5xsjx7usjewvitkihrqa&cover_image=true&theme=default&show_offline=false&background_color=151515&interchange=false&bar_color_cover=true" height="350" />
  </a>
 </div>
