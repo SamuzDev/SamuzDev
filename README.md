@@ -33,9 +33,11 @@ const samuz = {
 
 ###
 
+<img align="right" height="200" src="assets/anime-girl.gif" alt="Anime Girl" />
+
+###
+
 <div align="center">
-  <img align="right" width="221" height="221" src="assets/anime-girl.gif" alt="Anime Girl" />
-  <div align="left">
   <div>
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
     <img width="17" />
@@ -104,8 +106,6 @@ const samuz = {
     <img width="17" />
     <img src="https://cdn.simpleicons.org/swift/F05138" height="35" alt="swift logo"  />
   </div>
-</div>
-
 </div>
 
 ###
