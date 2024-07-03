@@ -33,7 +33,7 @@ const samuz = {
 
 ###
 
-<img align="right" width="200" src="https://c.tenor.com/T6cnb8csQAMAAAAC/tenor.gif" />
+<img align="right" width="200" src="https://c.tenor.com/FBNggrePCAAAAAAd/tenor.gif" />
 
 ###
 
