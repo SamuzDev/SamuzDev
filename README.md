@@ -33,7 +33,7 @@ const samuz = {
 
 ###
 
-<img align="right" width="200" height="200" src="assets/anime-girl.gif" alt="Anime Girl" />
+<img align="right" width="225" height="225" src="assets/anime-girl.gif" alt="Anime Girl" />
 
 ###
 
