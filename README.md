@@ -35,8 +35,6 @@ const samuz = {
 
 <img align="right" width="221" height="221" src="assets/anime-girl.gif" alt="Anime Girl" />
 
-###
-
 <div align="center">
   <div>
     <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
