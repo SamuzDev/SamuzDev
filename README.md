@@ -79,7 +79,7 @@ const samuz = {
     <img width="17" />
     <img src="https://cdn.simpleicons.org/mongodb/47A248" height="35" alt="mongodb logo"  />
     <img width="17" />
-    <img src="https://cdn.simpleicons.org/apple/000000" height="35" alt="apple logo"  />
+    <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="35" alt="nestjs logo"  />
     <img width="17" />
     <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="35" alt="netlify logo"  />
   </div>
@@ -92,7 +92,7 @@ const samuz = {
     <img width="17" />
     <img src="https://cdn.simpleicons.org/oracle/F80000" height="35" alt="oracle logo"  />
     <img width="17" />
-    <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="35" alt="nextjs logo"  />
+    <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
     <img width="17" />
     <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="35" alt="postgresql logo"  />
     <img width="17" />
