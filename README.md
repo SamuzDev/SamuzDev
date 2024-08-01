@@ -88,7 +88,7 @@ const samuz = {
   
   <div>
     <img width="17" />
-    <img src="https://cdn.simpleicons.org/nodedorjs/339833" height="35" alt="nodejs logo"  />
+    <img src="https://cdn.simpleicons.org/nodedotjs/339833" height="35" alt="nodejs logo"  />
     <img width="17" />
     <img src="https://cdn.simpleicons.org/oracle/F80000" height="35" alt="oracle logo"  />
     <img width="17" />
