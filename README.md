@@ -144,7 +144,9 @@ const samuz = {
 
 ###
 
-<img src="https://chesscom-profile-svg.vercel.app/stats?username=SpeedRun110&theme=dark&borderRadius=8" alt="ChessStats"/>
+<div align="center">
+  <img src="https://chesscom-profile-svg.vercel.app/stats?username=SpeedRun110&theme=dark&borderRadius=8" alt="ChessStats"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/SamuzDev/SamuzDev/output/snake.svg" alt="Snake animation" />
 
