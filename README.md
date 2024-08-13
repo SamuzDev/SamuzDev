@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=22&pause=1000&color=15A7F7&vCenter=true&random=false&width=200&height=22&lines=a+Web+Developer!;a+UI%2FUX+Designer!" />
 </div>
 
-<div height="17" />
-
 ###
 
 ```javascript
@@ -21,15 +19,11 @@ const samuz = {
 
 ###
 
-<div height="15px" />
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuzDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuzDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SamuzDev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-<div height="15px" />
 
 ###
 
@@ -111,7 +105,7 @@ const samuz = {
 ###
 
 <div align="center">
-  <a href="https://pe.linkedin.com" >
+  <a href="https://pe.linkedin.com" target="_blank" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <img width="10" />
@@ -126,8 +120,6 @@ const samuz = {
 
 ###
 
-<div height="15px" />
-
 <div align="center">
  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312unliw5xsjx7usjewvitkihrqa&redirect=true">
    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312unliw5xsjx7usjewvitkihrqa&cover_image=true&theme=default&show_offline=false&background_color=151515&interchange=false&bar_color_cover=true" height="350" />
@@ -139,14 +131,6 @@ const samuz = {
 <div align="center">
   <a href="https://discord.com/users/562788710685474817">
     <img src="https://lanyard.kyrie25.me/api/562788710685474817?useDisplayName=true&bg=151515&borderRadius=30px" alt="Discord Presence" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.chess.com/member/speedrun110">
-    <img src="https://chesscom-profile-svg.vercel.app/stats?username=SpeedRun110&theme=dark&borderRadius=8" alt="ChessStats"/>
   </a>
 </div>
 
