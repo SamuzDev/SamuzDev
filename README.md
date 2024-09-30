@@ -106,15 +106,15 @@ const samuz = {
 
 <div align="center">
   <a href="https://pe.linkedin.com" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&label=&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&label=&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <img width="10" />
   <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&label=&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/Youtube-FF0000?logo=youtube&label=&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
   <img width="10" />
   <a href="https://discord.com/users/562788710685474817" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&label=&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&label=&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
 
