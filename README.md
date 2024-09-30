@@ -106,7 +106,7 @@ const samuz = {
 
 <div align="center">
   <a href="https://pe.linkedin.com" target="_blank" >
-    <img src="https://img.shields.io/badge/LinkedIn?logo=linkedin&logoSize=amd&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoSize=amd&label=&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
   <img width="10" />
   <a href="https://www.youtube.com" target="_blank">
@@ -114,7 +114,7 @@ const samuz = {
   </a>
   <img width="10" />
   <a href="https://discord.com/users/562788710685474817" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&logoSize=auto&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&logoSize=auto&label=&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
 </div>
 
