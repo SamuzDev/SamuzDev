@@ -114,7 +114,7 @@ const samuz = {
   </a>
   <img width="10" />
   <a href="https://discord.com/users/562788710685474817" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA&logo=discord&label=&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&label=&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
 </div>
 
