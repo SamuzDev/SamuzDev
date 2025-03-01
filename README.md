@@ -130,7 +130,7 @@ const samuz = {
 
 <div align="center">
   <a href="https://discord.com/users/562788710685474817">
-    <img src="https://lanyard.kyrie25.dev/562788710685474817?useDisplayName=true&bg=151515&borderRadius=30px" alt="Discord Presence" />
+    <img src="https://lanyard.kyrie25.dev/api/562788710685474817?useDisplayName=true&bg=151515&borderRadius=30px" alt="Discord Presence" />
   </a>
 </div>
 
