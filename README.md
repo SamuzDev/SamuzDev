@@ -117,14 +117,10 @@ const samuz = {
 ###
 
 <div align="center">
-<a href="https://discord.com/users/562788710685474817"><img src="https://lanyard.cnrad.dev/api/562788710685474817?bg=08080a" /></a>
+  <a href="https://discord.com/users/562788710685474817"><img src="https://lanyard.cnrad.dev/api/562788710685474817?bg=201b23" /></a>
 </div>
 
 ###
-
-<div align="center">
-<a href="https://discord.com/users/562788710685474817"><img src="https://lanyard.cnrad.dev/api/562788710685474817?bg=08080a" /></a>
-</div>
 
 <img src="https://raw.githubusercontent.com/SamuzDev/SamuzDev/output/snake.svg" alt="Snake animation" />
 
