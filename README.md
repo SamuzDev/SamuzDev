@@ -117,17 +117,13 @@ const samuz = {
 ###
 
 <div align="center">
- <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312unliw5xsjx7usjewvitkihrqa&redirect=true">
-   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312unliw5xsjx7usjewvitkihrqa&cover_image=true&theme=default&show_offline=false&background_color=151515&interchange=false&bar_color_cover=true" height="350" />
- </a>
+<a href="https://discord.com/users/562788710685474817"><img src="https://lanyard.cnrad.dev/api/562788710685474817?bg=08080a" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/562788710685474817">
-    <img src="https://lanyard.kyrie25.dev/api/562788710685474817?useDisplayName=true&bg=151515&animated=true&borderRadius=30px" alt="Discord Presence" />
-  </a>
+<a href="https://discord.com/users/562788710685474817"><img src="https://lanyard.cnrad.dev/api/562788710685474817?bg=08080a" /></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/SamuzDev/SamuzDev/output/snake.svg" alt="Snake animation" />
