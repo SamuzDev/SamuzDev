@@ -1,0 +1,37 @@
+name: Update streak stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # Ejecuta todos los días a las 03:00
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml" # Ejecuta si se modifica este archivo
+  workflow_dispatch: # Permite ejecución manual desde Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&mode=daily&hide_border=true&border_radius=5
+          path: streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to streak-output branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: .
+          branch: streak-output # Guarda la imagen en una rama limpia e independiente
+          target-folder: .
+          git-config-name: "github-actions[bot]"
+          git-config-email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit-message: "Update streak stats"
+          clean: true
