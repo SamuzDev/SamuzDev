@@ -26,7 +26,7 @@ const samuz = {
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/samuzdev/samuzdev/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://raw.githubusercontent.com/samuzdev/samuzdev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://githubusercontent.com" height="150" alt="GitHub Streak" />
+   <img src="https://demolab.com" height="150" alt="GitHub Streak" />
 </div>
 
 ###
