@@ -121,7 +121,7 @@ const samuz = {
 ###
 
 <div align="center">
-  <a href="https://discord.com/users/562788710685474817"><img src="https://lanyard.cnrad.dev/api/562788710685474817?bg=070709" /></a>
+  <a href="https://discord.com/users/562788710685474817"><img src="https://lanyard.cnrad.dev/api/562788710685474817?bg=151b23" /></a>
 </div>
 
 ###
