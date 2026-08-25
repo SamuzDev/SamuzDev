@@ -1,12 +1,13 @@
 name: Generate stats card
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    # Se ejecuta cada 12 horas (al minuto 0 de las horas 00:00 y 12:00 UTC)
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
@@ -22,8 +23,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true
           path: dist/stats.svg
-          # Use the newly created Personal Access Token here
-          token: ${{ secrets.METRICS_TOKEN }} 
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: push stats.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -31,5 +31,4 @@ jobs:
           target_branch: stats-output
           build_dir: dist
         env:
-          # The default token is fine here because it's just pushing to the same repo
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
