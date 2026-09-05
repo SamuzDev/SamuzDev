@@ -12,8 +12,8 @@
 ```javascript
 const samuz = {
   pronouns: 'he' | 'him',
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Python', 'Java'],
-  tools: ['React', 'Node', 'Docker'],
+  code: ['JavaScript', 'TypeScript', 'Python', 'Java', 'Rust', 'C#'],
+  tools: ['React', 'Node', 'Docker', 'OpenCode'],
   challenge: 'Always learning new technologies to solve problems efficiently.',
   bio: 'Agnostic developer passionate about full-stack web apps, AI engineering, and automation.',
   hobbies: ['coding', 'reading', 'gaming', 'hiking'],
