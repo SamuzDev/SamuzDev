@@ -15,7 +15,7 @@ const samuz = {
   code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'Python', 'Java'],
   tools: ['React', 'Node', 'Docker'],
   challenge: 'Always learning new technologies to solve problems efficiently.',
-  bio: 'Developer with a diverse skill set in front-end and back-end technologies. Eager to contribute to projects.',
+  bio: 'Full-stack developer focused on building robust backend solutions and clean web apps.',
   hobbies: ['coding', 'reading', 'gaming', 'hiking'],
   location: 'Trujillo, Peru',
 };
