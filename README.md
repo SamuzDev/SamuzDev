@@ -99,6 +99,8 @@ const samuz = {
     <img src="https://cdn.simpleicons.org/spring/6DB33F" height="35" alt="spring logo"  />
     <img width="17" />
     <img src="https://cdn.simpleicons.org/swift/F05138" height="35" alt="swift logo"  />
+    <img width="17" />
+    <img src="https://cdn.simpleicons.org/rust/FFFFFF" height="35" alt="swift logo"  />
   </div>
 </div>
 
