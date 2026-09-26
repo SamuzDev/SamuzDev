@@ -23,7 +23,7 @@ jobs:
         with:
           options: user=${{ github.repository_owner }}&theme=tokyonight&mode=daily&hide_border=true&border_radius=5
           path: streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
       - name: Deploy to streak-output branch
         uses: JamesIves/github-pages-deploy-action@v4
